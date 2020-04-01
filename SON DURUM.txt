@@ -1,0 +1,8 @@
+merhaba hocam ; 
+
+bu hafta öğretmen giriş ekranını sql e bağlı kalarak giriş yapmasını sağladım.
+Ek olarak administrator ve diğer öğretmen anasayfa ekranının temasını html den aspx e döktüm
+Okul ekle ekranını tasarladım, fakat ekleme yapmamaktadır. Gelecek hafta okul ekleme ekranlarından
+devam edeceğim. 
+
+teşekkürler. 
